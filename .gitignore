@@ -1,4 +1,2 @@
 /model.pkl
-/metrics.json
-
-/data/
+.dvc/cache/
